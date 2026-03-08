@@ -1,0 +1,16 @@
+# Visual Studio / SSIS Project
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.dtproj.user
+
+# Build outputs
+*.ispac
+BuildLog.xml
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
